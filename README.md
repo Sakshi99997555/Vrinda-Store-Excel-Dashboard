@@ -5,6 +5,17 @@ Vrinda Store Annual Dashboard 2024
 Project Overview
   This project involves the creation of an annual sales dashboard for Vrinda Store for the year 2024 using Microsoft Excel.
   The dashboard provides key insights into sales performance and customer demographics, helping to identify trends and opportunities for growth.
+  
+Question Solved
+    Sample Questions
+      ☐Compare the sales and orders using single chart
+      ☐Which month got the highest sales and orders?
+      ☐Who purchased more- men or women in 2022?
+      ☐ What are different order status in 2022?
+      ☐List top 10 states contributing to the sales?
+      ☐Relation between age and gender based on number of orders
+      ☐ Which channel is contributing to maximum sales?
+      ☐Highest selling category?
 
 Steps Taken
 
